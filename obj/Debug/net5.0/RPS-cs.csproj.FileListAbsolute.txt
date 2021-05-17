@@ -1,0 +1,16 @@
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.csprojAssemblyReference.cache
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.AssemblyInfoInputs.cache
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.AssemblyInfo.cs
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.csproj.CoreCompileInputs.cache
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.exe
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.deps.json
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.runtimeconfig.json
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.runtimeconfig.dev.json
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.dll
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\ref\RPS-cs.dll
+C:\source\codeworks\RPS-cs\bin\Debug\net5.0\RPS-cs.pdb
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.dll
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\ref\RPS-cs.dll
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.pdb
+C:\source\codeworks\RPS-cs\obj\Debug\net5.0\RPS-cs.genruntimeconfig.cache
